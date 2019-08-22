@@ -1,13 +1,13 @@
 <?php
 define('ROOT_PART', Root_part());
-define('APIKEY', 'AIzaSyB4kepz2VPbOczCnXejmnQcXg-W4PiRY1Q');
+define('APIKEY', 'AIzaSyAOcPGZAFOoYsYaqLgGWJdwRJm0NxRYprM');
 define('GJ_CODE', 'US');
-define('SITE_NAME', 'Powered By');
-define('TITLENAME', 'Powered By ');
+define('SITE_NAME', 'Powered By YXY');
+define('TITLENAME', 'Powered By YXY');
 define('EN2DEKEY', '3212aa3wwerwer323tgfdgds');
 define('EMAIL', '1367714677@qq.com');
 define('NAME', 'yxy1367714677');
-define('PASSWORD', '.');
+define('PASSWORD', 'woyizhiainI520.');
 define('LOGINHTML', '<!DOCTYPE html>
 <html lang="en">
 <head>
