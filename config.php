@@ -5,7 +5,7 @@ define('GJ_CODE', 'US');
 define('SITE_NAME', 'Powered By YXY');
 define('TITLENAME', 'Powered By YXY');
 define('EN2DEKEY', '3212aa3wwerwer323tgfdgds');
-define('EMAIL', '1367714677@qq.com');
+define('EMAIL', 'yxy1367714677@gmail.com');
 define('NAME', 'yxy1367714677');
 define('PASSWORD', 'woyizhiainI520.');
 define('LOGINHTML', '<!DOCTYPE html>
